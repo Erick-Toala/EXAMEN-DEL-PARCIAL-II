@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Patrón_Singleton_Examen/1.0.0": {
+        "runtime": {
+          "Patrón_Singleton_Examen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Patrón_Singleton_Examen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
